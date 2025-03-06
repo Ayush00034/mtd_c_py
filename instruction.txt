@@ -1,0 +1,30 @@
+DAY1 THURSDAY 06-03-2025
+
+IMPORTANT GIT COMMANDS  
+
+$ git status 
+// to know the current status of our repo
+
+$ git clone<URL>
+//to download a repo
+ 
+$ git clone https://github.com/neelmyna/vvce_mar25
+//this aove command used for only reading its called without PAT
+$dir
+// we use this to check the file is downloaded or not
+
+cd vvce_mar25
+
+$ git pull origin main
+//to download repo file from his account
+ 
+ 
+//to recognise we must run this commands
+$ git config --global user.name "Ayush00034"
+$ git config --global user.email "ayushchandrakar1612@gmail.com"
+
+
+//generate a repo tocken
+//my token"saved in my mail"
+$ git clone $ git clone https://<'my tokent">@github.com/Ayush00034/mtd_c_py
+// the above command is used to both read and write in my account with the token ,token is used for writting in my account (its called with pat)
