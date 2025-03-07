@@ -35,3 +35,34 @@ $ git commit -m"notes files of mtd"
 
 $ git push origin main
 // to push all the files from my files in pc to git repo main file (same pull to pull all the files from git to my files in pc)
+------------------------------------------------------------------------------------------------------------
+day2 
+1.arthematic operators: + - * / %
+input  are no.
+output is no.
+all are operators.
+infix notation.
+datatpye should be same.
+left to right associtivity w.r.t reading the  values / expression.
+the infix expressionmust be converted to postfix (bodmass).
+
+2.relational operators:
+ > < == != >= <=
+
+eg:-
+ for (int i=1; i<=10;i++){
+ }
+ for (int i=1; i<11;i++){
+ }
+eg:-
+[10,20]
+ num >= 10 and num<=20
+ (10,20)
+ num >10 and num< 30
+ 3.logical operators
+ &(between operands)
+ &&(between expression) 
+ | (between operands)
+ ||(between expression) 
+ !(single operand)
+ 
