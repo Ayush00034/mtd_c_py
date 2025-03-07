@@ -22,9 +22,16 @@ $ git pull origin main
 //to recognise we must run this commands
 $ git config --global user.name "Ayush00034"
 $ git config --global user.email "ayushchandrakar1612@gmail.com"
-
-
 //generate a repo tocken
 //my token"saved in my mail"
 $ git clone $ git clone https://<'my tokent">@github.com/Ayush00034/mtd_c_py
 // the above command is used to both read and write in my account with the token ,token is used for writting in my account (its called with pat)
+
+$git add .
+//will mark add all the files to be updated
+
+$ git commit -m"notes files of mtd"
+//creates an object that will add an object to git
+
+$ git push origin main
+// to push all the files from my files in pc to git repo main file (same pull to pull all the files from git to my files in pc)
